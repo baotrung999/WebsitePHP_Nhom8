@@ -1,0 +1,8 @@
+--------HƯỚNG DẪN CÀI ĐẶT TRANG WEB CỦA NHÓM 8 --------
+B1: Vào btnhom_nhom8/csdl/nhom8.sql để lấy  cơ sở dử liệu
+B2: chép thư mục btnhom_nhom8 vào thư mục xampp/htdocs/
+B3: Chạy xampp, tạo cơ sở dữ liệu "nhom8" từ cơ sở dữ liệu ở trên
+B4: Chạy web
+*Để login admin truy cập vào http://localhost:8080/btnhom_nhom8//admincp/----(ở đây máy mình dùng cổng 8080)
+username: admin
+pass: nhom8
